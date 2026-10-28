@@ -1,0 +1,12 @@
+# Включаем только учебные предметы
+/*
+!/.gitignore
+!/README.md
+!/Biology/
+!/Chemistry/
+!/Math/
+!/History/
+!/Physics/
+!/Scientific knowledge/
+.DS_Store
+Thumbs.db
